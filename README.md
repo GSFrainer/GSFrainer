@@ -11,7 +11,7 @@ Master’s degree in Computer Science, with an emphasis on Artificial Intelligen
 **`Thesis repository:` [GSFrainer/taxonomy_classification](https://github.com/GSFrainer/taxonomy_classification)**
 
 
-## 📚 Current Learning
+## 📚 Currently Learning
 Exploring the frontiers of AI and its novel possibilities through hands-on work with LLMs, AI assistants, and multi-agent workflows. Currently studying how to architect intelligent systems that can collaborate, reason, support, solve complex problems, and provide a better user experience.
 
 My learning centers on bridging theory with practice, focusing on:
