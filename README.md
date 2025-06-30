@@ -3,9 +3,7 @@
 ## 👋 Who I am
 > *A Machine Learning Engineer and Software Developer, Master's in Computer Science with an emphasis on AI.*
 
-Driven by a deep interest in the transformative power of technology and its ability to enhance lives, I’m enthusiastic about designing and applying next-generation tools to solve real-world problems. 
-
-I’m particularly drawn to exploring forward-thinking approaches, with a strong interest in the intersection of technology and human well-being, looking to build a more connected, empowered world.
+Driven by a deep interest in the transformative power of technology and its ability to enhance lives, I’m enthusiastic about designing and applying next-generation tools to solve real-world problems. I’m particularly drawn to exploring forward-thinking approaches, with a strong interest in the intersection of technology and human well-being, looking to build a more connected, empowered world.
 
 ## 🎓 Education
 Master’s degree in Computer Science, with an emphasis on Artificial Intelligence. My academic research focused on developing deep learning models for the taxonomic classification of living organisms using 18S rRNA genetic sequences, merging AI with biological data.
