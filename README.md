@@ -19,7 +19,7 @@ My learning centers on bridging theory with practice, focusing on:
 - **Multi-Agent Systems** - Studying architectures and workflows for collaborative AI solutions
 - **Solution Design** - Focusing on practical AI implementation and real-world applications
 
-**`AI studies repository:` [GSFrainer/AI-Studies](https://github.com/GSFrainer/AI-Studies)** 
+<!--- **`AI studies repository:` [GSFrainer/AI-Studies](https://github.com/GSFrainer/AI-Studies)** --->
 
 
 ## 🛠️ Technical Skills
