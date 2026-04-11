@@ -16,14 +16,11 @@ Exploring the frontiers of AI and its novel possibilities through hands-on work 
 <!---Currently studying how to architect intelligent systems that can collaborate, reason, support, solve complex problems, and provide a better user experience. --->
 
 My learning centers on bridging theory with practice, focusing on:
+- **MLOps** - Mainly Databricks
+- **Solution Design** - Focusing on practical AI implementation and real-world applications
 - **Advanced AI Applications** - Exploring cutting-edge techniques in LLMs and AI assistants
 - **Multi-Agent Systems** - Studying architectures and workflows for collaborative AI solutions
-- **Solution Design** - Focusing on practical AI implementation and real-world applications
-
-I'm also interested in:
 - **Time series forecasting** - With models like CausalCNN, TCN, XGBoost, and Transformers
-- **Anomaly Detection**
-- **Sequence Classification**
 
 <!--- **`AI studies repository:` [GSFrainer/AI-Studies](https://github.com/GSFrainer/AI-Studies)** --->
 
