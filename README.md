@@ -16,11 +16,37 @@ Exploring the frontiers of AI and its novel possibilities through hands-on work 
 <!---Currently studying how to architect intelligent systems that can collaborate, reason, support, solve complex problems, and provide a better user experience. --->
 
 My learning centers on bridging theory with practice, focusing on:
-- **MLOps** - Mainly Databricks
-- **Solution Design** - Focusing on practical AI implementation and real-world applications
-- **Advanced AI Applications** - Exploring cutting-edge techniques in LLMs and AI assistants
-- **Multi-Agent Systems** - Studying architectures and workflows for collaborative AI solutions
+
+- **MLOps** - Mainly Databricks, working toward [Databricks Certified Machine Learning Professional certification](https://www.databricks.com/learn/certification/machine-learning-professional)
+- **Solution Design** - Focus on practical AI implementation and real-world applications
+- **Advanced AI Applications** - Cutting-edge techniques in LLMs and AI assistants
+- **Multi-Agent Systems** - Architectures and workflows for integrated and collaborative AI solutions
 - **Time series forecasting** - With models like CausalCNN, TCN, XGBoost, and Transformers
+
+<details>
+          <summary>Some references</summary>
+
+The list below contains some study references that I used and liked.
+
+Machine Learning:
+- [Programa de Mestrado: Machine Learning (2026) - IMPA](https://youtube.com/playlist?list=PLo4jXE-LdDTRLGDL59SkkLPBHVmYphuqI&si=dlCkMu3VEbFsKphr)
+- [Stanford Online AI/ML Courses](https://www.youtube.com/@stanfordonline/courses)
+
+Databricks:
+- [Databricks Fundamentals Learning Plan](https://customer-academy.databricks.com/learn/learning-plans/215/databricks-fundamentals-learning-plan)
+- [Databricks Fundamentals - Portuguese BR](https://customer-academy.databricks.com/learn/courses/2299/databricks-fundamentals-portuguese-br)
+
+LLM and Agents:
+- [Pydantic for LLM Workflows](https://www.deeplearning.ai/short-courses/pydantic-for-llm-workflows/)
+- [Orchestrating Workflows for GenAI Applications](https://www.deeplearning.ai/short-courses/orchestrating-workflows-for-genai-applications/)
+- [Knowledge Graphs for AI Agent API Discovery](https://www.deeplearning.ai/short-courses/knowledge-graphs-for-ai-agent-api-discovery/)
+- [Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
+- [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+- [AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
+- [Building Code Agents with Hugging Face smolagents](https://www.deeplearning.ai/short-courses/building-code-agents-with-hugging-face-smolagents/)
+- [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+          
+</details>
 
 <!--- **`AI studies repository:` [GSFrainer/AI-Studies](https://github.com/GSFrainer/AI-Studies)** --->
 
